@@ -1,9 +1,43 @@
+# dooblydoo
+- not all html is loaded upon first request
+- different sections can have different fonts
+
+- A ranking algorithm is a procedure used to rank items in a dataset according to some criterion. 
+    - two categories: deterministic and probabilistic
+    - deterministic: order of the items in the ranked list is fixed, and does not change regardless of the input data
+        - grocery item ordering (category, alphabet)
+    - probabilistic: order of the item is determined by the input data
+        - search ranking
+- binary ranking algo
+    - rank by feature - more accurate and computation
+    - rank by frequency - less accurate and computation
+    - in regards to a reference, using their relative importance
+
+- my assumptions
+    - first font is the most significant
+    - use a exponential fall off for ranking, because the others are fall back fonts
+- algo: 
+    - rank            0,    1,     2
+    - company1:      [a,    b,     c]
+    - company2:      [a,    b,     d]
+    - A = 2 * 0,5 ^ 0 = 2
+    - B = 2 * 0.5 ^ 1 = 1
+    - C = 1 * 0.5 ^ 2 = .25
+    - D = 1 * 0.5 ^ 2 = .25
+
+
+
+# timesheet
 49:23
 1:00:00
 20:00
 52:00
 30:00
 20:00
+
+# algo links
+https://vitalflux.com/ranking-algorithms-types-concepts-examples/#:~:text=Conclusion-,What%20is%20a%20Ranking%20Algorithm%3F,recommender%20systems%2C%20and%20machine%20learning
+
 
 # software links
 https://www.geeksforgeeks.org/python-string-find/ 
