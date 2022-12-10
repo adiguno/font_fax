@@ -1,4 +1,4 @@
-company, website, fonts
+company,website,fonts
 youtube, https://youtube.com, 'Roboto;Arial;sans-serif'
 google, https://google.com, 'arial;sans-serif'
 gmail, https://gmail.com, arial;sans-serif;Product Sans'
@@ -7,7 +7,7 @@ twitter, https://twitter.com, 'TwitterChirp;-apple-system;BlinkMacSystemFont;Seg
 microsoft, https://microsoft.com, 'Segoe UI;SegoeUI;Helvetica Neue;Helvetica;Arial;sans-serif'
 amazon, https://amazon.com, 'Arial;sans-serif'
 facebook, https://facebook.com, 'system-ui;-apple-system;BlinkMacSystemFont;.SFNSText-Regular;sans-serif'
-instagram, https://instagram.com, '-apple-system;BlinkMacSystemFont;Segoe UI;Roboto;Helvetica;Arial;sans-serif;
+instagram, https://instagram.com, '-apple-system;BlinkMacSystemFont;Segoe UI;Roboto;Helvetica;Arial;sans-serif'
 messenger, https://messenger.com, 'Helvetica;Arial;sans-serif'
 whatsapp, https://whatsapp.com, 'Helvetica;Arial;sans-serif'
 twitch, https://twitch.tv, 'Inter;Roobert;Helvetica Neue;Helvetica;Arial;sans-serif'

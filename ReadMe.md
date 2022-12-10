@@ -37,6 +37,7 @@
 
 # algo links
 https://vitalflux.com/ranking-algorithms-types-concepts-examples/#:~:text=Conclusion-,What%20is%20a%20Ranking%20Algorithm%3F,recommender%20systems%2C%20and%20machine%20learning
+https://stackoverflow.com/questions/6996632/multiple-fonts-in-font-family-property
 
 
 # software links
@@ -71,7 +72,8 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://stackoverflow.com/questions/58119823/jupyter-notebooks-in-visual-studio-code-does-not-use-the-active-virtual-environm 
 https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values 
 https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
-
+https://realpython.com/python-assert-statement/
+https://realpython.com/iterate-through-dictionary-python/#iterating-through-items
 
 # Other links
 https://www.elegantthemes.com/blog/wordpress/how-to-see-what-font-a-website-is-using
