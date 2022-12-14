@@ -1,8 +1,9 @@
-# Optimizations
+# Postmortem
 - [ ] select a better list
 - [ ] automate the font collecting process with chrome extension for font detection + auto click (python, or frontend automation frameworks, selenium? )
 - [ ] incorporate other metrics into algorithm (monthly visitors, company market cap)
 - [ ] remove stupid font variables that are not actually fonts
+- [ ] easier way to share the findings, in an interactive way (website, github pages?)
 
 # dooblydoo
 - `source .venv/bin/activate`
@@ -46,6 +47,12 @@
 30:00
 30:00
 1:13:00
+
+30:00
+30:00
+30:00
+10:00
+1:00:00
 
 # algo links
 https://vitalflux.com/ranking-algorithms-types-concepts-examples/#:~:text=Conclusion-,What%20is%20a%20Ranking%20Algorithm%3F,recommender%20systems%2C%20and%20machine%20learning
