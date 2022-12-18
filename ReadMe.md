@@ -55,6 +55,8 @@
 1:00:00
 40:00
 3:00:00
+10:00
+30:00
 
 # algo links
 https://vitalflux.com/ranking-algorithms-types-concepts-examples/#:~:text=Conclusion-,What%20is%20a%20Ranking%20Algorithm%3F,recommender%20systems%2C%20and%20machine%20learning
@@ -108,12 +110,18 @@ https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-datafra
 https://stackoverflow.com/questions/58305156/match-values-from-dictionary-to-dataframe-row-values-and-add-data-to-that-row
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html?highlight=apply#pandas.DataFrame.apply
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html?highlight=concat#pandas.concat
+https://stackoverflow.com/questions/65417368/how-to-empty-string-in-pandas
+https://stackoverflow.com/questions/29100380/remove-empty-lists-in-pandas-series
+https://stackoverflow.com/questions/13682044/remove-unwanted-parts-from-strings-in-a-column
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.apply.html
+
 - visualization
 https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed
 https://www.geeksforgeeks.org/data-visualization-with-python/
 https://www.geeksforgeeks.org/pie-plot-using-plotly-in-python/?ref=lbp
 https://www.geeksforgeeks.org/bar-chart-using-plotly-in-python/?ref=lbp
 https://www.geeksforgeeks.org/histogram-using-plotly-in-python/
+https://www.geeksforgeeks.org/python-plotly-tutorial/?ref=lbp
 
 # Other links
 https://www.elegantthemes.com/blog/wordpress/how-to-see-what-font-a-website-is-using
